@@ -27,15 +27,6 @@
         <img src="https://img.shields.io/badge/GDScript-black?logo=godotengine&style=flat-square"/>
         <img src="https://img.shields.io/badge/C++-black?logo=cplusplus&style=flat-square"/>
     </p>
-    <!-- Platforms -->
-    <p>
-    </p>
-    <!-- Style -->
-    <style>
-        p{
-            margin:0;
-        }
-    </style>
 </div>
 
 ### Featured projects
