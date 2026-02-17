@@ -42,3 +42,12 @@
     - [Pressure Point](https://bastiasa.itch.io/pressure-point): Online 1v1 puzzles game.
     - [Arkanet](https://bastiasa.itch.io/arkanet): Shoot 'em up game.
     - [First Person Test](https://bastiasa.itch.io/fptest): Showcase of my habilities in 3D videogames.
+
+### Contact info
+
+- [<img src="https://img.shields.io/badge/LinkedIn-darkblue?logo=linkedin"/>](https://www.linkedin.com/in/luis-bastidas-64b06a29b/)
+- [<img src="https://img.shields.io/badge/Freelancer.com-darkblue?logo=freelancer"/>](https://www.freelancer.com/u/Bastiasa)
+- [<img src="https://img.shields.io/badge/Upwork-darkgreen?logo=upwork&logoColor=white"/>](https://upwork.com/freelancers/~01fbbb2576482e139e)
+- [<img src="https://img.shields.io/badge/Fiverr-darkgreen?logo=fiverr&logoColor=white"/>](https://es.fiverr.com/s/akVjeYK)
+
+- [<img src="https://img.shields.io/badge/Email-leysantqm%40gmail.com-black"/>](mailto:leysantqm@gmai.com)
