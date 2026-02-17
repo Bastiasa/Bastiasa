@@ -2,7 +2,7 @@
 
 ### Languages & Tools
 
-<div align="center" style="display:flex; flex-direction:column; gap:9px">
+<div align="center" style="display:flex; flex-direction:column; gap:9px; width: 100%; max-width:512px; margin-inline: auto !important;">
     <!-- Tools -->
     <p>
         <img src="https://img.shields.io/badge/Node.js-black?logo=node.js"/>
