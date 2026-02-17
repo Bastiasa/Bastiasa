@@ -30,12 +30,6 @@
     <!-- Platforms -->
     <p>
     </p>
-    <!-- Style -->
-    <style>
-        p{
-            margin:0;
-        }
-    </style>
 </div>
 
 ### Featured projects
