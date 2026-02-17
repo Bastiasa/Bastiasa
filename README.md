@@ -2,30 +2,30 @@
 
 ### Languages & Tools
 
-<div align="center" style="display:flex; flex-direction:column; gap:9px">
+<div align="center">
     <!-- Tools -->
     <p>
-        <img src="https://img.shields.io/badge/Node.js-black?logo=node.js"/>
-        <img src="https://img.shields.io/badge/Prisma-black?logo=prisma"/>
-        <img src="https://img.shields.io/badge/NestJS-black?logo=nestjs"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql"/>
-        <img src="https://img.shields.io/badge/Vite-black?logo=vite"/>    
-        <img src="https://img.shields.io/badge/Mantine-black?logo=mantine"/>
-        <img src="https://img.shields.io/badge/Ant%20Design-black?logo=antdesign"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss"/>
-        <img src="https://img.shields.io/badge/Godot%20Engine-black?logo=godotengine"/>
-        <img src="https://img.shields.io/badge/Android-black?logo=android"/>
-        <img src="https://img.shields.io/badge/Electron-black?logo=electron"/>
+        <img src="https://img.shields.io/badge/Node.js-black?logo=node.js&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Prisma-black?logo=prisma&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/NestJS-black?logo=nestjs&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Vite-black?logo=vite&style=for-the-badge"/>    
+        <img src="https://img.shields.io/badge/Mantine-black?logo=mantine&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Ant%20Design-black?logo=antdesign&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Godot%20Engine-black?logo=godotengine&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Android-black?logo=android&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Electron-black?logo=electron&style=for-the-badge"/>
     </p>
     <!-- Languajes -->
     <p>
-        <img src="https://img.shields.io/badge/TypeScript-black?logo=typescript"/>
-        <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript"/>
-        <img src="https://img.shields.io/badge/Python-black?logo=python"/>
-        <img src="https://img.shields.io/badge/Kotlin-black?logo=kotlin"/>
-        <img src="https://img.shields.io/badge/Java-black?logo="/>
-        <img src="https://img.shields.io/badge/GDScript-black?logo=godotengine"/>
-        <img src="https://img.shields.io/badge/C++-black?logo=cplusplus"/>
+        <img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&style=flat-square"/>
+        <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-black?logo=python&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Kotlin-black?logo=kotlin&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Java-black?logo=&style=flat-square"/>
+        <img src="https://img.shields.io/badge/GDScript-black?logo=godotengine&style=flat-square"/>
+        <img src="https://img.shields.io/badge/C++-black?logo=cplusplus&style=flat-square"/>
     </p>
     <!-- Platforms -->
     <p>
